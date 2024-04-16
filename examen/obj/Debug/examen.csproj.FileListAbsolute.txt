@@ -1,0 +1,7 @@
+C:\Users\jhmar\source\repos\examen\examen\bin\Debug\examen.exe.config
+C:\Users\jhmar\source\repos\examen\examen\bin\Debug\examen.exe
+C:\Users\jhmar\source\repos\examen\examen\bin\Debug\examen.pdb
+C:\Users\jhmar\source\repos\examen\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+C:\Users\jhmar\source\repos\examen\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\jhmar\source\repos\examen\examen\obj\Debug\examen.exe
+C:\Users\jhmar\source\repos\examen\examen\obj\Debug\examen.pdb
